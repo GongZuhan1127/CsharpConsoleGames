@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "控制台游戏/1.0.0": {
+        "runtime": {
+          "控制台游戏.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "控制台游戏/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
